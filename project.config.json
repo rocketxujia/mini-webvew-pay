@@ -1,0 +1,13 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx2b51758fc782c0a4",
+	"projectname": "mini-webview-pay",
+	"compileType": "miniprogram",
+	"condition": {}
+}
